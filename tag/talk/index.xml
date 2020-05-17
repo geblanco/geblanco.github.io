@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk | Guillermo E. Blanco</title>
+    <link>https://geblanco.github.io/tag/talk/</link>
+      <atom:link href="https://geblanco.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>talk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 19 Feb 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geblanco.github.io/images/icon_hud375488b7b77144ec52c92dc9ddce2ce_709_512x512_fill_lanczos_center_2.png</url>
+      <title>talk</title>
+      <link>https://geblanco.github.io/tag/talk/</link>
+    </image>
+    
+    <item>
+      <title>Cloud Computing in Google Cloud Platform</title>
+      <link>https://geblanco.github.io/talk/gcp-uned/</link>
+      <pubDate>Wed, 19 Feb 2020 11:00:00 +0000</pubDate>
+      <guid>https://geblanco.github.io/talk/gcp-uned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights from Deep Learning for NLP.</title>
+      <link>https://geblanco.github.io/talk/dl-nlp-uned/</link>
+      <pubDate>Tue, 12 Mar 2019 11:00:00 +0000</pubDate>
+      <guid>https://geblanco.github.io/talk/dl-nlp-uned/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anselmo Penas | Guillermo E. Blanco</title>
+    <link>https://geblanco.github.io/author/anselmo-penas/</link>
+      <atom:link href="https://geblanco.github.io/author/anselmo-penas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anselmo Penas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geblanco.github.io/images/icon_hud375488b7b77144ec52c92dc9ddce2ce_709_512x512_fill_lanczos_center_2.png</url>
+      <title>Anselmo Penas</title>
+      <link>https://geblanco.github.io/author/anselmo-penas/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking Entity Linking for Question Answering over Knowledge Graphs</title>
+      <link>https://geblanco.github.io/publication/echegoyen-2019-benchmarking/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geblanco.github.io/publication/echegoyen-2019-benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Learning for Question Answering</title>
+      <link>https://geblanco.github.io/publication/penas-2019-continuous/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://geblanco.github.io/publication/penas-2019-continuous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

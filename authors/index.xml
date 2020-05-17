@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Guillermo E. Blanco</title>
+    <link>https://geblanco.github.io/authors/</link>
+      <atom:link href="https://geblanco.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020</copyright><lastBuildDate>Wed, 19 Feb 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geblanco.github.io/images/icon_hud375488b7b77144ec52c92dc9ddce2ce_709_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://geblanco.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
