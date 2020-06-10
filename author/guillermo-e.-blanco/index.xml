@@ -28,5 +28,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Course on Web development technologies (NodeJS &amp; Electron).</title>
+      <link>https://geblanco.github.io/talk/nodejs-upm/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://geblanco.github.io/talk/nodejs-upm/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
