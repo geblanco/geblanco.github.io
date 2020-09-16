@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://geblanco.github.io/sitemap.xml
