@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming | Guillermo E. Blanco</title>
+    <link>https://geblanco.github.io/tag/programming/</link>
+      <atom:link href="https://geblanco.github.io/tag/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>Guillermo E.Blanco © 2020</copyright><lastBuildDate>Fri, 16 Oct 2020 10:15:00 +0200</lastBuildDate>
+    <image>
+      <url>https://geblanco.github.io/images/icon_hud375488b7b77144ec52c92dc9ddce2ce_709_512x512_fill_lanczos_center_2.png</url>
+      <title>programming</title>
+      <link>https://geblanco.github.io/tag/programming/</link>
+    </image>
+    
+    <item>
+      <title>Transformers Seminar at UNED</title>
+      <link>https://geblanco.github.io/talk/transformers/</link>
+      <pubDate>Fri, 16 Oct 2020 10:15:00 +0200</pubDate>
+      <guid>https://geblanco.github.io/talk/transformers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
