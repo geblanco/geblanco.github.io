@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anselmo Penas | Guillermo E. Blanco</title>
+    <title>Anselmo Peñas | Guillermo E. Blanco</title>
     <link>https://geblanco.github.io/author/anselmo-penas/</link>
       <atom:link href="https://geblanco.github.io/author/anselmo-penas/index.xml" rel="self" type="application/rss+xml" />
-    <description>Anselmo Penas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>Guillermo E.Blanco © 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>Anselmo Peñas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>Guillermo E.Blanco © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geblanco.github.io/images/icon_hud375488b7b77144ec52c92dc9ddce2ce_709_512x512_fill_lanczos_center_3.png</url>
-      <title>Anselmo Penas</title>
+      <title>Anselmo Peñas</title>
       <link>https://geblanco.github.io/author/anselmo-penas/</link>
     </image>
+    
+    <item>
+      <title>A Cooking Knowledge Graph and Benchmark for Question Answering Evaluation in Lifelong Learning Scenarios</title>
+      <link>https://geblanco.github.io/publication/dblp-confnldb-veron-pebgr-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://geblanco.github.io/publication/dblp-confnldb-veron-pebgr-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benchmarking Entity Linking for Question Answering over Knowledge Graphs</title>

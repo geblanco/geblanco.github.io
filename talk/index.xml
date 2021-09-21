@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Cross Lingual Training for Multiple Choice Question Answering.</title>
+      <title>Cross Lingual Training for Multiple Choice Question Answering</title>
       <link>https://geblanco.github.io/talk/sepln-2020/</link>
       <pubDate>Wed, 23 Sep 2020 16:00:00 +0000</pubDate>
       <guid>https://geblanco.github.io/talk/sepln-2020/</guid>
@@ -37,7 +37,15 @@
     </item>
     
     <item>
-      <title>Insights from Deep Learning for NLP.</title>
+      <title>Benchmarking Entity Linking for Question Answering over Knowledge Graphs</title>
+      <link>https://geblanco.github.io/talk/sepln-2019/</link>
+      <pubDate>Tue, 24 Sep 2019 12:00:00 +0000</pubDate>
+      <guid>https://geblanco.github.io/talk/sepln-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights from Deep Learning for NLP</title>
       <link>https://geblanco.github.io/talk/dl-nlp-uned/</link>
       <pubDate>Tue, 12 Mar 2019 11:00:00 +0000</pubDate>
       <guid>https://geblanco.github.io/talk/dl-nlp-uned/</guid>
@@ -45,7 +53,7 @@
     </item>
     
     <item>
-      <title>Course on Web development technologies (NodeJS &amp; Electron).</title>
+      <title>Course on Web development technologies (NodeJS &amp; Electron)</title>
       <link>https://geblanco.github.io/talk/nodejs-upm/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://geblanco.github.io/talk/nodejs-upm/</guid>
